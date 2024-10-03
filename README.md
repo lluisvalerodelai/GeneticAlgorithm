@@ -1,2 +1,2 @@
 # GeneticAlgorithm
-This code is really bad, it was one of the first pieces of code ive ever written and I want to keep it as a memory
+If you like to see clean, readable, and sensible code turn away. This is old and shitty code
